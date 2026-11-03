@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cws-architecture": {
+      "type": "http",
+      "url": "https://cws-portal-scanner.onrender.com/mcp/architecture"
+    }
+  }
+}

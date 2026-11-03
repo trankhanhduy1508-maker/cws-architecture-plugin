@@ -1,0 +1,25 @@
+{
+  "name": "cws-architecture",
+  "displayName": "CWS Architecture",
+  "version": "0.2.0",
+  "description": "Vietnamese architecture workflows: understand briefs and sketches, compare design options, review evidence, and prepare CAD/BIM actions through a verified CWS connection.",
+  "author": {
+    "name": "TRAN KHANH DUY"
+  },
+  "repository": "https://github.com/trankhanhduy1508-maker/cws-architecture-plugin",
+  "homepage": "https://cws-lab-frontend.onrender.com/architecture/",
+  "documentationUrl": "https://cws-lab-frontend.onrender.com/architecture/",
+  "supportUrl": "https://cws-lab-frontend.onrender.com/architecture/support/",
+  "privacyPolicyUrl": "https://cws-lab-frontend.onrender.com/architecture/privacy/",
+  "termsOfServiceUrl": "https://cws-lab-frontend.onrender.com/architecture/terms/",
+  "icon": "./assets/cws-architecture.svg",
+  "keywords": [
+    "architecture",
+    "bim",
+    "vietnam",
+    "revit",
+    "sketchup",
+    "blender"
+  ],
+  "license": "LicenseRef-CWS-Architecture"
+}

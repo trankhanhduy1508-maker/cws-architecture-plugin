@@ -1,0 +1,14 @@
+{
+  "name": "cws-architecture",
+  "description": "CWS Architecture workflow plugin distribution maintained by TRAN KHANH DUY.",
+  "version": "0.2.0",
+  "owner": {"name": "TRAN KHANH DUY"},
+  "plugins": [
+    {
+      "name": "cws-architecture",
+      "displayName": "CWS Architecture",
+      "source": "./plugins/cws-architecture",
+      "description": "Architecture briefs, sketches, design comparison and evidence-aware CAD/BIM workflows. Native execution requires a verified CWS bridge."
+    }
+  ]
+}
